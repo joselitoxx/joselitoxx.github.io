@@ -1,4 +1,4 @@
-var OPENAI_API_KEY = "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";
+var OPENAI_API_KEY = "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";
 
 function Send() {
 
